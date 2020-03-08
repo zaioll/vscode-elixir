@@ -1,0 +1,27 @@
+{
+    "zenMode.centerLayout": false,
+    "window.titleBarStyle": "custom",
+    "editor.minimap.enabled" : false,
+    "vim.camelCaseMotion.enable": true,
+    "editor.formatOnPaste": false,
+    "window.zoomLevel": 1,
+    "editor.suggestSelection": "first",
+    "git.ignoreMissingGitWarning": true,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "terminal.integrated.rendererType": "dom",
+    "vsicons.dontShowNewVersionMessage": true,
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "gitlens.advanced.messages": {
+        "suppressLineUncommittedWarning": true
+    },
+    "[xml]": {
+        "editor.defaultFormatter": "DotJoshJohnson.xml"
+    },
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    }
+}
